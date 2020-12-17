@@ -1,5 +1,5 @@
 # Looking for maintainers
-We are looking for maintainers to help with Axom as currently this is a solo project and I honestly couldn't do this by myself.
+We are looking for maintainers to help with Axom.
 If you would like to help, please DM me on Discord, my username is sfulham#0001.
 
 # AxomKernel
